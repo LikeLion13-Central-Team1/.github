@@ -5,6 +5,11 @@
 
 ---
 
+## 🎥 시연 영상
+https://youtu.be/Q0BfSeK3iaI?si=nHLNiuJhs8F4SdUl
+
+<br>
+
 ## 👨‍👩‍👧‍👦 팀원들
 
 | 기획 | 디자인 | 프론트엔드 | 프론트엔드 | 프론트엔드 & 백엔드 | 백엔드 |
